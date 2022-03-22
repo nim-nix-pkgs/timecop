@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-timecop-master.flake = false;
+  inputs.src-timecop-master.ref   = "refs/heads/master";
   inputs.src-timecop-master.owner = "ba0f3";
-  inputs.src-timecop-master.ref   = "master";
   inputs.src-timecop-master.repo  = "timecop.nim";
   inputs.src-timecop-master.type  = "github";
   
