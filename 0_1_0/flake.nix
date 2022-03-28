@@ -11,7 +11,6 @@
   inputs.src-timecop-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-timecop-0_1_0.owner = "ba0f3";
   inputs.src-timecop-0_1_0.repo  = "timecop.nim";
-  inputs.src-timecop-0_1_0.dir   = "";
   inputs.src-timecop-0_1_0.type  = "github";
   
   inputs."subhook".owner = "nim-nix-pkgs";
