@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "0_5_5",
-        "lastModified": 1657153323,
-        "narHash": "sha256-pJ407e3D3RZV+kwHhk4i/ILua59/puWH2k0ZObpDXIA=",
+        "lastModified": 1658018296,
+        "narHash": "sha256-pVX02Su4dt9Y9rEV4Ci5NrkgF31tR3qtvoXgR6IqDUo=",
         "owner": "nim-nix-pkgs",
         "repo": "subhook",
-        "rev": "aeef5ae4fe54e049558293f25ede474c2deea804",
+        "rev": "9b490c2a4adc5059758b0a4ef704997a700757e8",
         "type": "github"
       },
       "original": {
